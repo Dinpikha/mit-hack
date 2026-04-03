@@ -1,0 +1,9 @@
+Hospital,Doctor,Facilities,Capacity,Occupied,ETA,Location
+Ruby Hall Clinic,Cardiologist,"ICU,Emergency Care",3,1,9,Pune Station
+KEM Hospital,General Physician,Emergency Care,2,2,6,Pune Camp
+Jehangir Hospital,Neurologist,"ICU,Ventilator",3,1,8,Bund Garden
+Sancheti Hospital,Trauma Surgeon,ICU,2,1,10,Shivajinagar
+Aditya Birla Hospital,Cardiologist,"ICU,Ventilator",4,3,15,Pimpri
+City Care Hospital,General Physician,Emergency Care,3,1,7,Aundh
+Neuro Center,Neurologist,"ICU,Ventilator",2,2,11,Baner
+Trauma Care Center,Trauma Surgeon,ICU,2,0,12,Wakad
